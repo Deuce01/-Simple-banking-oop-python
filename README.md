@@ -27,10 +27,7 @@ banking_system/
 
 ## 🛠️ **How to Set Up**
 1. **Clone the repo**:  
-   ```bash
-   git clone https://github.com/username/banking-system-oop.git
-   cd banking-system-oop
-   ```
+   
 2. **Run the project**:  
    ```bash
    python main.py
